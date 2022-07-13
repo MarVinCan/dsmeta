@@ -24,6 +24,7 @@ public class Sale {
 	public Sale() {
 	}
 
+	
 	public Long getId() {
 		return id;
 	}
